@@ -1,0 +1,2 @@
+"""Financial calculator lab project."""
+
